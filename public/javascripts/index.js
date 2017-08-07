@@ -33,7 +33,7 @@ $(document).ready(function () {
   var basicOption = {
     title: {
       display: true,
-      text: 'Temperature & Humidity Real-time Data',
+      text: 'Real-time Demo CIDESI STARTUP',
       fontSize: 36
     },
     scales: {
